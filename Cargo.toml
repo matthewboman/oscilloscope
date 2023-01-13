@@ -1,0 +1,9 @@
+[package]
+name = "oscillosope"
+version = "0.1.0"
+authors = ["Matthew Boman <matthew.boman@gmail.com>"]
+
+[dependencies]
+glium = "0.24.0"
+portaudio = "0.7.0"
+time = "0.1.0"
